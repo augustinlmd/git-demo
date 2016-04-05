@@ -31,3 +31,5 @@ Voici quelques exercices pour vous entraîner sur la leçon du mardi 5 avril :
 7. N'envoyez pas ces modifications au dépôt distant, car cela risque de perturber les autres dépôts.
 
 > Si vous avez des questions, n'hésitez surtout pas et envoyez-moi un mail !
+
+
